@@ -1,0 +1,137 @@
+
+
+header 
+{
+	color:green;
+	font-family:'Cookie', cursive;
+	padding:.8px;
+   text-align: center;
+   font-weight:bold;
+   font-size:20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+	font-family:'Open Sans Condensed', sans-serif;
+	font-weight:bold;
+	font-size:20px;
+
+	
+}
+
+ul li {
+    float: left;
+	padding: 12px;
+	
+	
+}
+
+ul li a {
+    
+    color: white;
+    text-align: center;
+    
+    text-decoration: none;
+	
+	
+   padding:10px 10px 10px 10px;
+}
+ul li a:hover {
+    background-color: red;
+}
+
+
+	
+
+.diva
+{
+	background-color:red;
+	height:5px;
+}
+
+.divs
+{
+	background-color:red;
+	height:5px;
+
+}
+
+.all
+{
+	background-color:red;
+}
+.fimage1
+{
+	background-color:white;
+    width:500px;
+	height:700px;
+	margin:auto;
+	padding:40px;
+	border:2px solid gray;
+}
+.combo
+{
+	color:green;
+	float:right;
+	padding:130px;
+	font-family:'Open Sans Condensed', sans-serif;
+	font-weight:bold;
+	font-size:20px;
+}
+
+nav table
+{
+padding:50px;
+width:600px;
+margin:auto;
+font-size:18px;
+color:white;
+font-family:'Open Sans Condensed', sans-serif;
+
+}	
+
+
+input[type=submit]
+{
+	width:100%;
+	background:green;
+	color:white;
+	border:none;
+	padding:5px;
+	border-radius:5px;
+	text-align:center;
+	font-size:20px;
+	}
+	
+table
+{
+background:red ;
+padding:60px;
+width:400px;
+
+margin:auto;
+font-size:20px;
+color:white;
+font-family:'Open Sans Condensed', sans-serif;
+
+}	
+
+
+input
+{
+	width:100%;	
+	padding:5px;
+	margin-top:20px;
+	font-size:18px;
+	font-family:'Open Sans Condensed', sans-serif;
+	border:none;
+	
+	border-bottom: 1px solid #fff;
+}
+	
+
+
